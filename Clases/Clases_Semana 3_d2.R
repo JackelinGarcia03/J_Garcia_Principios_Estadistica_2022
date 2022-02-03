@@ -2,7 +2,6 @@
 # 03/02/2022
 # Sesion semana 3 Sala de computo
 
-
 # Muestra basica de R -----------------------------------------------------
 
 # Operaciones basicas en R
@@ -23,7 +22,6 @@
  
  res.alt <- altura / 2
  res.alt  
-
 
 # Primera base de datos ---------------------------------------------------
 
@@ -48,6 +46,3 @@
 
  # Agregar columna en inventario (dxh) 
   inventario$dxh <- inventario$h * inventario$DAP
- 
- 
-  
