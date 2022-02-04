@@ -1,4 +1,4 @@
-# + J-Garcia
+# J-Garcia
 # + 04/02/2022
 # Laboratorio_1
 
@@ -35,7 +35,8 @@
  
  otros <- 1833
  
- "gastos" <- data.frame("gastos al mes", celular, transporte, comestibles, gimnasio, alquiler, otros)
+ "gastos" <- data.frame("gastos al mes", celular, transporte, comestibles, gimnasio, 
+                        alquiler, otros)
 
 
  mean(gastos$celular) 
@@ -69,14 +70,16 @@
    
    
  
- "df" <- data.frame(gastos = c(celular, transporte, comestibles, gimnasio, alquiler,otros), num = c(300, 240, 1527, 400, 1500, 1833))
+ "df" <- data.frame(gastos = c(celular, transporte, comestibles, gimnasio, 
+                               alquiler,otros), 
+                    num = c(300, 240, 1527, 400, 1500, 1833))
    
  
  
  
  # Problema 1 --------------------------------------------------------------
  
- # Variables cualitativa o cuantitativa
+ # Variables qualitative o quantitative
  
  
  "Nombre del Estudiante <- Ximena Garza"
