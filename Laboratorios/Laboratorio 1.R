@@ -92,7 +92,7 @@
  
  "Numero Telefono" <- 510-123-4567
  
- "Area Principal de Estudio <- Facultad de Ciencias Forestales"
+ "Area Principal de Estudio" <- "Facultad de Ciencias Forestales"
  
  "Grado de Año Universitario <- Ultimo año"
  
@@ -126,7 +126,7 @@
  
  "Calificacion general : cualitativa"
  
-  Tiempo : cuantitativa
+  Tiempo 
  
  "Numero de hermanos : cuantitativa"
  
@@ -179,25 +179,17 @@
  variable es categórico o cuantitativo."
 
  "¿Cuál es la cantidad promedio de horas que los estudiantes de universidades 
- públicas trabajan cada semana?"
- 
-                                cuantitativo
+ públicas trabajan cada semana? cuantitativo"
 
 
  "¿Qué proporción de todos los estudiantes universitarios de México están 
- inscritos en una universidad pública?"
- 
-                                cuantitativa
+ inscritos en una universidad pública? cuantitativa"
 
  "En los universidades públicas, ¿las estudiantes femeninas tienen un promedio 
- de CENEVAL más alto que los estudiantes varones?"
- 
-                                cualitativa
+ de CENEVAL más alto que los estudiantes varones? cualitativa"
 
  "¿Es más probable que los atletas universitarios reciban asesoramiento académico 
- que los atletas no universitarios?"
- 
-                                cualitativa
+ que los atletas no universitarios? cualitativa"
 
  "Si reuniéramos datos para responder a las preguntas de la investigación anterior, 
  ¿qué datos podrían analizarse mediante un histograma? ¿Cómo lo sabes?."
