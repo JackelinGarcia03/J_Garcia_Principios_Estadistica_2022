@@ -1,65 +1,66 @@
 # J_Garcia
 # 04/02/2022
-# Problema 1
 
 
-# Variables cualitativas o cuantitativas ----------------------------------
+# Problema 1 --------------------------------------------------------------
+
+# Variables cualitativas o cuantitativas
 
 
- +  Nombre del Estudiante <- Ximena Garza
+ "+  Nombre del Estudiante <- Ximena Garza"
  
- +  Fecha de Nacimiento <- 21/10/1995
+ "+  Fecha de Nacimiento <- 21/10/1995"
  
  +  Edad <- c(22)
 
- +  Direccion de Casa <- 1234 Av.Alamo
+ "+  Direccion de Casa <- 1234 Av.Alamo"
  
- +  Numero de Telefono" <- 510-123-4567
+ "+  Numero de Telefono" <- 510-123-4567"
  
- +  Area Principal de Estudio <- "Facultad de Ciencias Forestales
+ "+  Area Principal de Estudio <- Facultad de Ciencias Forestales"
  
- +  Grado de Año Universitario <- Ultimo año
+ "+  Grado de Año Universitario <- Ultimo año"
  
- +  Puntaje en la prueba de mitad de periodo <- 95
+ "+  Puntaje en la prueba de mitad de periodo <- 95"
  
- +  Calificacion General <- A
+ "+  Calificacion General <- A"
  
  +  Tiempo <- 120
  
- +  Numero de hermanos <- 1
+ "+  Numero de hermanos <- 1"
  
 
 # Lista de estudiantes (Cuantitativas o Cualitativas)
 
 
- + Nombre del estudiante <- Cualitativa
+ "+ Nombre del estudiante <- Cualitativa"
  
- + Fecha de nacimiento <- Cuantitativa
+ "+ Fecha de nacimiento <- Cuantitativa"
  
- + Edad <- Cuantitativa
+ "+ Edad <- Cuantitativa"
  
- + Direccion de casa  <- Cuantitativa
+ "+ Direccion de casa  <- Cuantitativa"
  
- + Numero de telefono <- Cuantitativa
+ "+ Numero de telefono <- Cuantitativa"
  
- + Area principal de estudio <- Cualitativa
+ "+ Area principal de estudio <- Cualitativa"
  
- + Grado de año universitario <- Cuantitativa
+ "+ Grado de año universitario <- Cuantitativa"
  
- + Puntaje en la prueba de mitad de periodo <- Cuantitativa
+ "+ Puntaje en la prueba de mitad de periodo <- Cuantitativa"
  
- + Calificacion general <- Cualitativa
+ "+ Calificacion general <- Cualitativa"
  
- + Tiempo <- Cuantitativa
+ "+ Tiempo <- Cuantitativa"
  
- + Numero de hermanos <- Cuantitativa
+ "+ Numero de hermanos <- Cuantitativa"
  
  
-  
-  #Problema 2
   
 
-# Base de datos -----------------------------------------------------------
+# Problema 2 --------------------------------------------------------------
+
+# Base de datos 
 
  Ba <- c(1:4)
  DAP <- c(28, 20.5, 29.4, 24.9)
@@ -74,7 +75,10 @@
 
 
  
- #Problema 3
+
+# Problema 3 --------------------------------------------------------------
+
+ 
  
  RS <- c(1:5)
  Op <- c(1, 2, 3, 4, 5)
@@ -82,12 +86,21 @@
 
  #Comment
  
- + ¿Es esta una variable cuantitativa o cualitativa?
+ "+ ¿Es esta una variable cuantitativa o cualitativa?"
    
- + Esta seria una variable cuantitativa ya que a traves de recoleccion y generacion de numeros y datos conocemos las opiniones personales expresadas, estas mismas señalando informacion sobre la expresion de opinones de forma electronica.
+ "+ Esta seria una variable cuantitativa ya que a traves de recoleccion y 
+ generacion de numeros y datos conocemos las opiniones personales expresadas, 
+ estas mismas señalando informacion sobre la expresion de opinones de forma 
+ electronica."
   
  
+ 
 
+# Problema 4 --------------------------------------------------------------
+
+ 
+ 
+ 
  
  
  
