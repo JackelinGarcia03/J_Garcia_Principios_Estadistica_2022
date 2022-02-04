@@ -98,7 +98,38 @@
 
 # Problema 4 --------------------------------------------------------------
 
+
+ Para cada pregunta de investigación, (1) identifique a los individuos de interés 
+ (el grupo o grupos que se están estudiando), (2) identifique la (s) variable (s)
+ (la característica sobre la que recopilaríamos datos) y (3) determine si cada 
+ variable es categórico o cuantitativo.
+
+ + ¿Cuál es la cantidad promedio de horas que los estudiantes de universidades 
+ públicas trabajan cada semana?
  
+                                Cuantitativo
+
+
+ + ¿Qué proporción de todos los estudiantes universitarios de México están 
+ inscritos en una universidad pública?
+ 
+                                Cuantitativa
+
+ + En los universidades públicas, ¿las estudiantes femeninas tienen un promedio 
+ de CENEVAL más alto que los estudiantes varones?
+ 
+                                Cualitativa
+
+ + ¿Es más probable que los atletas universitarios reciban asesoramiento académico 
+ que los atletas no universitarios?
+ 
+                                Cualitatuva
+
+ + Si reuniéramos datos para responder a las preguntas de la investigación anterior, 
+ ¿qué datos podrían analizarse mediante un histograma? ¿Cómo lo sabes?.
+ 
+                Las cuantitativas, por que les asignas un valor numerico.
+
  
  
  
