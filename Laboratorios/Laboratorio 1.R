@@ -83,7 +83,7 @@
  
  "Fecha de Nacimiento <- 21/10/1995"
  
-  Edad <- c(22)
+  Edad <- 22
  
  "Direccion de Casa <- 1234 Av.Alamo"
  
@@ -108,8 +108,8 @@
  "Nombre del estudiante : cualitativa"
  
  "Fecha de nacimiento : cuantitativa"
- 
- Edad : cuantitativa
+  
+  Edad : cuantitativa
  
  "Direccion de casa  : cuantitativa"
  
