@@ -109,7 +109,7 @@
  
  "Fecha de nacimiento : cuantitativa"
  
- Edad : Cuantitativa
+ Edad : cuantitativa
  
  "Direccion de casa  : cuantitativa"
  
