@@ -7,13 +7,11 @@
 
  superficie <- c(3140, 1453, 450, 1200, 720)
  
- superficie <- c("Pinus, Mezquite, Encinos, Teka, Juniperos)
+ "superficie" <- c("Pinus", "Mezquite", "Encinos", "Teka", "Juniperos")
  
- barplot(superficie)
- 
+ "barplot(superficie)"
+
  sort(superficie)
- 
- mean(superficie)
  
   mean(3140 + 1453 + 450 + 1200 + 720) / 5
  
@@ -37,10 +35,6 @@
  #desviacion tipica
  
  sd(xi)
- 
- #equivalente a:
- 
-  sqrt(var(x))
 
 
 
@@ -55,6 +49,9 @@
  
  sd(xi)
 
+ 
+ 
+ 
  
  
  
