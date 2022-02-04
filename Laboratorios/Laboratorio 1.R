@@ -76,7 +76,7 @@
  
  # Problema 1 --------------------------------------------------------------
  
- # Variables qualitative o quantitative
+ # Variables cualitativa o cuantitativa
  
  
  "Nombre del Estudiante <- Ximena Garza"
@@ -102,7 +102,7 @@
  "Numero de hermanos <- 1"
  
 
-# Lista
+# Lists
 
 
  "Nombre del estudiante : cualitativa"
@@ -194,7 +194,7 @@
  "¿Es más probable que los atletas universitarios reciban asesoramiento académico 
  que los atletas no universitarios?"
  
-                                cualitatuva
+                                cualitativa
 
  "Si reuniéramos datos para responder a las preguntas de la investigación anterior, 
  ¿qué datos podrían analizarse mediante un histograma? ¿Cómo lo sabes?."
