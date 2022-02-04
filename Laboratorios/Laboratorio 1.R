@@ -1,11 +1,11 @@
 # J_Garcia
 # 04/02/2022
-# Laboratorio_Semana_1
+# Laboratorio_1
 
 
 # Gastos totales ----------------------------------------------------------
 
-300 + 240 + 1527 + 400 + 1500 + 1833
+ 300 + 240 + 1527 + 400 + 1500 + 1833
 
 # Gastos de facturacion de telefonía celular
 
@@ -102,7 +102,7 @@
  "Numero de hermanos <- 1"
  
 
-# Cuantitativas o Cualitativas
+# Lista
 
 
  "Nombre del estudiante : Cualitativa"
