@@ -83,9 +83,9 @@
  
  "Fecha de Nacimiento <- 21/10/1995"
  
- Edad <- c(22)
+  Edad <- c(22)
  
-  "Direccion de Casa <- 1234 Av.Alamo"
+ "Direccion de Casa <- 1234 Av.Alamo"
  
  "Numero Telefono" <- 510-123-4567
  
@@ -105,27 +105,27 @@
 # Lista
 
 
- "Nombre del estudiante : Cualitativa"
+ "Nombre del estudiante : cualitativa"
  
- "Fecha de nacimiento : Cuantitativa"
+ "Fecha de nacimiento : cuantitativa"
  
  Edad : Cuantitativa
  
- "Direccion de casa  : Cuantitativa"
+ "Direccion de casa  : cuantitativa"
  
- "Numero de telefon : Cuantitativa"
+ "Numero de telefon : cuantitativa"
  
- "Area principal de estudio : Cualitativa"
+ "Area principal de estudio : cualitativa"
  
- "Grado de año universitario : Cuantitativa"
+ "Grado de año universitario : cuantitativa"
  
- "Puntaje en la prueba de mitad de periodo : Cuantitativa"
+ "Puntaje en la prueba de mitad de periodo : cuantitativa"
  
- "Calificacion general : Cualitativa"
+ "Calificacion general : cualitativa"
  
- Tiempo : Cuantitativa
+  Tiempo : cuantitativa
  
- "Numero de hermanos : Cuantitativa"
+ "Numero de hermanos : cuantitativa"
  
   
 
@@ -178,23 +178,23 @@
  "¿Cuál es la cantidad promedio de horas que los estudiantes de universidades 
  públicas trabajan cada semana?"
  
-                                Cuantitativo
+                                cuantitativo
 
 
  "¿Qué proporción de todos los estudiantes universitarios de México están 
  inscritos en una universidad pública?"
  
-                                Cuantitativa
+                                cuantitativa
 
  "En los universidades públicas, ¿las estudiantes femeninas tienen un promedio 
  de CENEVAL más alto que los estudiantes varones?"
  
-                                Cualitativa
+                                cualitativa
 
  "¿Es más probable que los atletas universitarios reciban asesoramiento académico 
  que los atletas no universitarios?"
  
-                                Cualitatuva
+                                cualitatuva
 
  "Si reuniéramos datos para responder a las preguntas de la investigación anterior, 
  ¿qué datos podrían analizarse mediante un histograma? ¿Cómo lo sabes?."
