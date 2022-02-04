@@ -109,8 +109,6 @@
  
  "Fecha de nacimiento : cuantitativa"
   
-  Edad : cuantitativa
- 
  "Direccion de casa  : cuantitativa"
  
  "Numero de telefon : cuantitativa"
