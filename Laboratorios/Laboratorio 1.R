@@ -76,7 +76,7 @@
  
  # Problema 1 --------------------------------------------------------------
  
- # Variables cualitativas o cuantitativas
+ # Variables qualitative o quantitative
  
  
  "Nombre del Estudiante <- Ximena Garza"
