@@ -2,10 +2,10 @@
 # 09/02/2022
 # Sesion Semana 4 Sala de computo
 
-
+setwd("C:/Users/Usuario/Documents/R Jackelin Garcia/J_Garcia_Principios_Estadistica_2022/Clases")
 # Importar datos ----------------------------------------------------------
 
-vivero <- read.csv("Clases/BD_vivero.csv" , header = TRUE)
+vivero <- read.csv("BD_vivero.csv" , header = TRUE)
  
 
 # Estadística descriptiva -------------------------------------------------
