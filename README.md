@@ -4,7 +4,8 @@ Almacenar el proyecto de trabajo de la clase de Principios de estadistica
 Semana 1:
 
 + 19/01/2022: Clase en linea Presentacion de la clase de estudios.
-+ 20/02/2022: Introduccion a R y RStudio
++ 20/01/2022: Introduccion a R y RStudio
+
 Semana 2: 
 
 + 26/01/2022: Primeros pasos en R y RStudio.
