@@ -1,6 +1,6 @@
 # J_Garcia
 # 09/02/2022
-# Sesion Semana 4 Sala d computo
+# Sesion Semana 4 Sala de computo
 
 
 # Importar datos ----------------------------------------------------------
@@ -8,7 +8,7 @@
 vivero <- read.csv("Clases/BD_vivero.csv" , header = TRUE)
  
 
-# Estadistica descriptiva -------------------------------------------------
+# Estadística descriptiva -------------------------------------------------
 
 # Medidas de tendencia central
  
