@@ -10,7 +10,7 @@ vivero <- read.csv("Clases/BD_vivero.csv" , header = TRUE)
 
 # Estadistica descriptiva -------------------------------------------------
 
- # Medidas de tendencia central
+# Medidas de tendencia central
  
 mean(vivero$IE)
 median(vivero$IE)
