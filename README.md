@@ -18,3 +18,4 @@ Semana 3:
 
 Semana 4:
 + 09/02/2022: Graficas 
++ 10/02/2022: Descargar datos de internet
