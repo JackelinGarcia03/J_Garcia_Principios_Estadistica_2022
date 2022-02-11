@@ -51,15 +51,15 @@ sd(inventario$Vecinos)
 sd(inventario$Diametro)
 sd(inventario$Altura)
 
-cuadro_1$Diametro >= mean(inventario$Diametro)
+inventario$Diametro >= mean(inventario$Diametro)
 
-# Subset
+# subset
 
-ins.alta <- subset(inventario, inventario$Diametro >= mean(inventario$Diametro)
-"ins.alta <- subset(inventario, inventario$Diametro >= mean(inventario$Altura)"
+ins.alta <- subset(inventario, inventario$Diametro >= mean(inventario$Diametro)) 
+ins.alta <- subset(inventario, inventario$Diametro >= mean(inventario$Altura)) 
 
-Est.C <- subset(inventario, inventario$Arbol == c(1:50)                 
-
+Est.C <- subset(inventario, inventario$Arbol == c(1:50))             
+                
 barplot(inventario$Arbol)
 barplot(inventario$Fecha)
 
@@ -67,11 +67,9 @@ mamiferos <- read.csv("https://www.openintro.org/data/csv/mammals.csv")
 
 hist(mamiferos$total_sleep)
 "xlim = c(0,20) , ylim = c(0,14)"
-main = "Total de horas sueño de las 39 especies"
-xlab = "Horas sueño"
-ylab = "Frecuencia"
-las = 1
-col ="yellow"
+main = "total_sleep"
+xlab = "horas sueño"
+ylab = "frecuencia"
 
 data("chickwts")
 head(chickwts[c(1:2,42:43, 62:64), ])
