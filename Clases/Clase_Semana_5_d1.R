@@ -40,6 +40,3 @@ pie(porcentaje, col = topo.colors(4),
 
 pie(freq.sp, col = topo.colors(3), 
     labels = paste(levels(inventario$Especie), freq.sp, "ind"))
-
-
-
