@@ -23,4 +23,4 @@ Semana 4:
 Semana 5:
 + 16/02/2022: Trabjar con tablas de frecuencias.
 + Datos:  https://raw.githubusercontent.com/mgtagle/PrincipiosEstadistica2021/main/cuadro1.csv
-+ 17/02/2022: round_pushpin
++ 17/02/2022: round_pushpin. Prueba dt
