@@ -1,6 +1,6 @@
 # Jackelin_Garcia
 # 18/02/2022
-# Tarea_3_Medidas de tendencia central
+# Tarea 3 Medidas de tendencia central
 
 
 # Problemas de Tarea ------------------------------------------------------
@@ -29,7 +29,8 @@ B <- c(60, 65, 65, 70, 70, 70, 75, 75,
      mean(B) 
      
 # Porblema_3
-     + "se necesita una calificacion de 76 para obtener un 80"
+     
+     "se necesita una calificacion de 76 para obtener un 80"
      
      promedio80 <- c(87, 72, 85, 76)
      mean (promedio80)
