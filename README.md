@@ -24,3 +24,10 @@ Semana 5:
 + 16/02/2022: Trabjar con tablas de frecuencias.
 + Datos:  https://raw.githubusercontent.com/mgtagle/PrincipiosEstadistica2021/main/cuadro1.csv
 + 17/02/2022: round_pushpin. Prueba dt
+
+Semana 6:
++ 23/02/2022: Clase fuera de la sala de computo_Medicion de arboles de eucaliptos
++ 24/02/2022: Clase fuera de la sala de computo
+
+Semana 7:
++ 02/03/2022: Sala de computo_base de datos:estadistica(semillas)
