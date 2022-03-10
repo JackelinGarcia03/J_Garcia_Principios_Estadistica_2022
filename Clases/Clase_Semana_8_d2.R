@@ -21,17 +21,17 @@ mean(bar$Peso_gr)
 t.test(bar$Peso_gr, mu=8.5)
 t.test(bar$Peso_gr, mu=7.3)
 
-D.Ebano <- madera %>%
-  (mu= 12, D.Ebano= 11.3)
+D.Ebano <- madera %>%   filter(Sp=="D.Eb")
 
-  filter(Sp=="D.Ebano")
-mean(bar$Peso_gr)
-t.test(bar$Peso_gr, mu=8.5)
-t.test(bar$Peso_gr, mu=7.3)
+  # mu= 12, D.Ebano= 11.3
 
-Ebano <- madera %>%
-  mu= 12, D.Ebano= 11.3
-  filter(Sp=="Ebano")
-mean(bar$Peso_gr)
-t.test(bar$Peso_gr, mu=8.5)
-t.test(bar$Peso_gr, mu=7.3)
+mean(D.Ebano$Peso_gr)
+t.test(D.Ebano$Peso_gr, mu=12)
+t.test(D.Ebano$Peso_gr, mu=11.3)
+
+Ebano <- madera %>%   filter(Sp=="Ebano")
+
+  # mu= 8.3, Eb= 7.9
+mean(Ebano$Peso_gr)
+t.test(Ebano$Peso_gr, mu=8.3)
+t.test(Ebano$Peso_gr, mu=7.9)
