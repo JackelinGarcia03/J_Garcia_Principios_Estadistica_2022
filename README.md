@@ -31,3 +31,8 @@ Semana 6:
 
 Semana 7:
 + 02/03/2022: Sala de computo_base de datos:estadistica(semillas)
++ 03/03/2022: Plantacion de semillas de Encino rojo
+
+Semana 8:
++ 09/03/2022: Repaso de lo visto
++ 10/03/2022: Revisar datos de madera:BD Madera
