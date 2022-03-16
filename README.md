@@ -38,4 +38,4 @@ Semana 8:
 + 10/03/2022: Revisar datos de madera: BD Madera
 
 Semana 9:
-+ 16/03/2022: Continuación con las puebas de té
++ 16/03/2022: Revisar datos peso de madera 2x2x2: BD madera
