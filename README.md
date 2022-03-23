@@ -39,3 +39,7 @@ Semana 8:
 
 Semana 9:
 + 16/03/2022: Revisar datos peso de madera 2x2x2: BD madera
++ 17/03/2022: No tuvimos clase debido a salida
+
+Semana 10:
++ 23/03/2022: Pruebas de te, examen practico
