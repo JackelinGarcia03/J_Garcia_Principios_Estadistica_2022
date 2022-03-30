@@ -43,3 +43,7 @@ Semana 9:
 
 Semana 10:
 + 23/03/2022: Pruebas de te, examen practico
++ 24/03/2022: Examen
+
+Semana 11:
++ 30/03/2022: Prueba de t de muestras dependientes
