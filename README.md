@@ -47,3 +47,4 @@ Semana 10:
 
 Semana 11:
 + 30/03/2022: Prueba de t de muestras dependientes
++ 31/03/2022: Revisión del examen
