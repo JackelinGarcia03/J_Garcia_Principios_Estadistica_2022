@@ -48,3 +48,7 @@ Semana 10:
 Semana 11:
 + 30/03/2022: Prueba de t de muestras dependientes
 + 31/03/2022: Revisión del examen
+
+Semana 12:
++ 06/04/2022: Chequeo de semillas
++ 07/04/2022: ejemplo de los costales
