@@ -52,3 +52,6 @@ Semana 11:
 Semana 12:
 + 06/04/2022: Chequeo de semillas
 + 07/04/2022: ejemplo de los costales
+Semana 13:
+Semana 14:
++ 04/05/2022: Base de datos semilla_Diámetro
