@@ -54,4 +54,4 @@ Semana 12:
 + 07/04/2022: ejemplo de los costales
 Semana 13:
 Semana 14:
-+ 04/05/2022: Base de datos semilla_Diámetro
++ 04/05/2022: Base de datos semilla_REGRESIÓN
