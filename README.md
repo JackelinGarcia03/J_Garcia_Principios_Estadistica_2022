@@ -53,11 +53,11 @@ Semana 12:
 + 06/04/2022: Chequeo de semillas
 + 07/04/2022: ejemplo de los costales
 Semana 13:
-+
-+
++ 27/04/2022: Sala de computo_Tema nuevo de correlación
++ 28/04/2022: Sala de computo_Problemas de ejercicio de correlación
 Semana 14:
-+ 04/05/2022: Base de datos semilla_REGRESIÓN
-+ 05/05/2022: 
++ 04/05/2022: Base de datos semilla:regresión
++ 05/05/2022: Dia libre
 Semana 15:
-+ 
-+
++ 11/05/2022: Segundo examen: Datos de regresión lineal
++ 12/05/2022: Actualizacion de README, solución de dudas
