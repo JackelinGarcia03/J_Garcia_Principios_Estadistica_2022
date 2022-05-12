@@ -32,3 +32,4 @@ plot(x, y, pch = 20)
 plot(x1, y1, pch = 20)
 plot(x2, y2, pch = 20)
 plot(x3, y3, pch = 20)
+
