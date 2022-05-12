@@ -30,7 +30,8 @@ sem.lm$coefficients
 sum(sem.lm$residuals)
 
 # Encontrar los siguientes valores aplicando la formula de regresión
-# 18, 11, 14, 16, 15
+# valores <- c(12.5, 14, 15, 16, 18) 
 
-valores <- c(12.5, 14, 15, 16, 18) 
 -4.93388+0.53178*valores
+
+
