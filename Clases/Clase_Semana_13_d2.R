@@ -25,3 +25,4 @@ cor.test(suelo$pH, suelo$K)
 cor.test(suelo$pH, suelo$Na)
 cor.test(suelo$pH, suelo$Conduc)
 
+
