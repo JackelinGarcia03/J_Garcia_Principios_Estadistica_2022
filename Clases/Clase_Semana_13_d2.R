@@ -10,9 +10,9 @@ Abundance <- c (6, 3, 5, 23, 16, 12, 48, 43)
 cor.test(Speed, Abundance)
 plot(Speed, Abundance)
 
-#¿Es estadisticamente significativa la correlacion? = Si 
+# ¿Es estadisticamente significativa la correlacion? = Si 
 
-#Ejercicio 2 
+# Ejercicio 2 
 
 suelo <- read.csv("Clases/suelo.csv")
 
