@@ -1,5 +1,5 @@
 # J_Garcia 
-# 28/04/22
+# 28/04/22 
 # Clase_Semana_13_d2 
 
 # Ejercicio 1
@@ -10,9 +10,9 @@ Abundance <- c (6, 3, 5, 23, 16, 12, 48, 43)
 cor.test(Speed, Abundance)
 plot(Speed, Abundance)
 
-#¿Es estadisticamente significativa la correlacion? = Si 
+# ¿Es estadisticamente significativa la correlacion? = Si 
 
-#Ejercicio 2 
+# Ejercicio 2 
 
 suelo <- read.csv("Clases/suelo.csv")
 
@@ -24,3 +24,5 @@ cor.test(suelo$pH, suelo$Mg)
 cor.test(suelo$pH, suelo$K)
 cor.test(suelo$pH, suelo$Na)
 cor.test(suelo$pH, suelo$Conduc)
+
+
