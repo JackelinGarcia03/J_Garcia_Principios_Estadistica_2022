@@ -1,0 +1,17 @@
+---
+title: "Graficas para PIA"
+author: "Jackelin Garcia Pulido"
+date: "19/5/2022"
+output: pdf_document
+fontsize: 12pt
+lang: es-MX
+toc: TRUE
+---
+
+# Titulo 1
+
+Graficas insertadas desde Rmarkdown 
+
+![Insertando imagen](Grafica.png){withd=80%}
+
+
