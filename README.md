@@ -66,8 +66,8 @@ Semana 15:
 + 12/05/2022: Actualizacion de README, solución de dudas
 
 Semana 16:
-´+ 18/05/2022: Preparación del PIA
-´+ 19/05/2022: Preparación del PIA
++ 18/05/2022: Preparación del PIA
++ 19/05/2022: Preparación del PIA
 
 Contribución de repositorio
 ¡[Contribucion al repositorio]()
