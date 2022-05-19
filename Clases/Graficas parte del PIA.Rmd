@@ -12,6 +12,7 @@ toc: TRUE
 
 Graficas insertadas desde Rmarkdown 
 
-![Insertando imagen](Grafica.png){withd=80%}
+![Insertando imagen](Grafica.png)
 
+![Insertando imagen](Grafica_2.png)
 
