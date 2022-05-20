@@ -70,5 +70,4 @@ Semana 16:
 + 19/05/2022: Preparación del PIA
 
 Contribución de repositorio
-¡[Contribucion al repositorio](Clases/Imagen_1.png)
-¡[Contribucion al repositorio](Clases/Imagen_2.png)
+¡[Contribucion al repositorio](Clases/Imagen_1.png)(Clases/Imagen_2.png)
