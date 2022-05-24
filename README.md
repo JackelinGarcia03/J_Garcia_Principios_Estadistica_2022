@@ -25,7 +25,7 @@ Semana 3:
 Semana 4:
 + 09/02/2022: [Graficas](Clases/Clase_Semana_4_d1.R) 
 + :dart: [Lab 2](Laboratorios/Laboratorio_2.R)
-+ :dart: [Lab 2](Laboratorios/Laboratorio_2.pdf)
++ :dart:  [Lab 2](Laboratorios/Laboratorio_2.pdf) 
 + 10/02/2022: [Descargar datos de internet](Clases/Clase_Semana_4_d2.R)
 + :dart: [HW_02](Tareas/HW_02.R)
 + :dart: [HW_02](Tareas/HW_02.pdf)
