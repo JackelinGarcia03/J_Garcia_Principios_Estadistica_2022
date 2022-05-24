@@ -1,6 +1,6 @@
 # J_Garcia
 # 09/02/2022
-# Sesion Semana 4 Sala de computo
+# Sesion_Semana_4_Sala_de_computo
 
 # Importar datos ----------------------------------------------------------
 vivero <- read.csv("Clases/BD_vivero.csv" , header = T)
