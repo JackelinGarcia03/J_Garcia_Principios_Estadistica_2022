@@ -14,17 +14,30 @@ Semana 2:
 Semana 3:
 
 + :dart: 02/02/2022: Sala de computo Instalar credenciales y proyecto.
-+ 03/02/2022: Sala de computo Revisar [Lab 1](Laboratorios/Laboratorio 1.R)(Laboratorios/Laboratorio_1_Estadistica.pdf) PDF y [HW_01](Tareas/HW_01.R)
-+ :dart: (Laboratorios/Laboratorio 1.R) + 
-+ :dart: (Laboratorios/Laboratorio_1_Estadistica.pdf)
++ 03/02/2022: Sala de computo Revisar Lab 1 y HW_01
+
++ :dart: PDF [Laboratorio_1_Estadistica](Laboratorios/Laboratorio_1_Estadistica.pdf)
++ :dart: R [Laboratorio_1_Estadistica](Laboratorios/Laboratorio 1.R)
++ :dart: PDF [HW_01](Tareas/HW_01.pdf)
++ :dart: R [HW_01](Tareas/HW_01.R)
+
+
 Semana 4:
 + 09/02/2022: [Graficas](Clases/Clase_Semana_4_d1.R) 
++ :dart: [Lab 2](Laboratorios/Laboratorio_2.R)
++ :dart: [Lab 2](Laboratorios/Laboratorio_2.pdf)
 + 10/02/2022: [Descargar datos de internet](Clases/Clase_Semana_4_d2.R)
++ :dart: [HW_02](Tareas/HW_02.R)
++ :dart: [HW_02](Tareas/HW_02.pdf)
 
 Semana 5:
 + 16/02/2022: [Trabjar con tablas de frecuencias](Clases/Clase_Semana_5_d1.R)
 + Datos:  https://raw.githubusercontent.com/mgtagle/PrincipiosEstadistica2021/main/cuadro1.csv
 + 17/02/2022: round_pushpin. Prueba dt
++ 18/02/2022: TAREA
++ :dart: [HW_03](Tareas/HW_03.R)
++ :dart: [HW_03](Tareas/HW_03.pdf)
+
 
 Semana 6:
 + 23/02/2022: Clase fuera de la sala de computo_Medicion de arboles de eucaliptos
@@ -64,6 +77,8 @@ Semana 14:
 
 Semana 15:
 + 11/05/2022: [Segundo examen: Datos de regresión lineal](Clases/Clase_Semana_15_d1_Examen.R) codigo R(Clases/Clase_Semana_15_d1_Examen.pdf) PDF
++ :dart: [Lab_6](Laboratorios/Laboratorio_6.R)
++ :dart: [Lab_6](Laboratorios/Laboratorio_6.pdf)
 + 12/05/2022: Actualizacion de README, solución de dudas
 
 Semana 16:
