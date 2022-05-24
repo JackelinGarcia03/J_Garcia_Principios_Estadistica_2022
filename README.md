@@ -16,10 +16,10 @@ Semana 3:
 + :dart: 02/02/2022: Sala de computo Instalar credenciales y proyecto.
 + 03/02/2022: Sala de computo Revisar Lab 1 y HW_01
 
-+ :dart: PDF [Laboratorio_1_Estadistica](Laboratorios/Laboratorio_1_Estadistica.pdf)
-+ :dart: R [Laboratorio_1_Estadistica](Laboratorios/Laboratorio 1.R)
-+ :dart: PDF [HW_01](Tareas/HW_01.pdf)
-+ :dart: R [HW_01](Tareas/HW_01.R)
++ :dart: [Laboratorio_1_Estadistica](Laboratorios/Laboratorio_1_Estadistica.pdf)
++ :dart: [Laboratorio_1_Estadistica](Laboratorios/Laboratorio 1.R)
++ :dart: [HW_01](Tareas/HW_01.pdf)
++ :dart: [HW_01](Tareas/HW_01.R)
 
 
 Semana 4:
