@@ -14,8 +14,9 @@ Semana 2:
 Semana 3:
 
 + :dart: 02/02/2022: Sala de computo Instalar credenciales y proyecto.
-+ 03/02/2022: Sala de computo Revisar [Lab 1](Laboratorios/Laboratorio 1.R) y [HW_01](Tareas/HW_01.R)
-
++ 03/02/2022: Sala de computo Revisar [Lab 1](Laboratorios/Laboratorio 1.R)(Laboratorios/Laboratorio_1_Estadistica.pdf) PDF y [HW_01](Tareas/HW_01.R)
++ :dart: (Laboratorios/Laboratorio 1.R) + 
++ :dart: (Laboratorios/Laboratorio_1_Estadistica.pdf)
 Semana 4:
 + 09/02/2022: [Graficas](Clases/Clase_Semana_4_d1.R) 
 + 10/02/2022: [Descargar datos de internet](Clases/Clase_Semana_4_d2.R)
