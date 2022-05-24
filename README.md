@@ -76,7 +76,7 @@ Semana 14:
 + 05/05/2022: Dia libre
 
 Semana 15:
-+ 11/05/2022: [Segundo examen: Datos de regresión lineal](Clases/Clase_Semana_15_d1_Examen.R) codigo R(Clases/Clase_Semana_15_d1_Examen.pdf) PDF
++ 11/05/2022: [Segundo examen: Datos de regresión lineal](Clases/Clase_Semana_15_d1_Examen.R) codigo R [Segundo examen: Datos de regresión lineal](Clases/Clase_Semana_15_d1_Examen.pdf) PDF
 + :dart: [Lab_6](Laboratorios/Laboratorio_6.R)
 + :dart: [Lab_6](Laboratorios/Laboratorio_6.pdf)
 + 12/05/2022: Actualizacion de README, solución de dudas
