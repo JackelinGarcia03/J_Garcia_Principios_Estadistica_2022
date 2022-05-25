@@ -1,6 +1,6 @@
 # J_Garcia
 # 02/02/2022
-# Clase_S7_d1
+# Clase_Semana_7_d1
 
 semilla <- read.csv("Clases/BaseDeDatos_estadistica.csv" , header = T)
 graf.sem <- boxplot(semilla$Peso_gr)
