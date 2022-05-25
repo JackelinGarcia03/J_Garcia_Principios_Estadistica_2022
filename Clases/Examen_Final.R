@@ -1,6 +1,6 @@
 # J_Garcia
 # 25/05/2022
-# Examen final
+# Examen_Final
 
 madera <- read.csv("Clases/BD_vivero_madera2x2x5.csv", header = TRUE)
 library(dplyr)
@@ -14,8 +14,8 @@ Encino <- madera %>%
 mean(madera$Peso_gr)
 mean(Pino$Peso_gr)
 mean(Encino$Peso_gr)
-summary(Pino$Peso_gr^2)
-summary(Encino$Peso_gr^2)
+sum(Pino$Peso_gr^2)
+sum(Encino$Peso_gr)
 
 t.test (Encino$Peso_gr, Pino$Peso_gr, var.equal = T)
 
